@@ -53,6 +53,7 @@ The system is composed of the following major components:
 
 * Mechanism for controlled payload release with high positional accuracy
 
+![Image](Code%20File/p6.png)
 
 
 ## Technology Stack
@@ -63,7 +64,8 @@ The system is composed of the following major components:
 * QGroundControl
 * Python / C++
 
-
+![Image](Code%20File/DroneBasicSetup.png) 
+![Image](Code%20File/ObstacleAvoidanceCircuitDiagram.png)
 
 ## Use Cases
 
@@ -101,15 +103,7 @@ cd underwater-autonomous-drone
 
 
 
-## Project Structure
-
-```id="9s3kdf"
-├── firmware/        # Pixhawk firmware configurations
-├── ros_packages/    # ROS nodes and packages
-├── scripts/         # Control and automation scripts
-├── configs/         # Parameter and launch configurations
-├── docs/            # Documentation and references
-```
+![Image](Code%20File/p7.png)
 
 
 
