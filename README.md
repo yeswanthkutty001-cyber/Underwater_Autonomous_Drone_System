@@ -53,7 +53,7 @@ The system is composed of the following major components:
 
 * Mechanism for controlled payload release with high positional accuracy
 
-![Image](Code%20File/p6.png)
+![System](code_files/p6.jpg)
 
 
 ## Technology Stack
@@ -64,8 +64,8 @@ The system is composed of the following major components:
 * QGroundControl
 * Python / C++
 
-![Image](Code%20File/DroneBasicSetup.png) 
-![Image](Code%20File/ObstacleAvoidanceCircuitDiagram.png)
+![System](code_files/DroneBasicSetup.jpg)
+![System](code_files/ObstacleAvoidanceCircuitDiagram.png)
 
 ## Use Cases
 
@@ -102,8 +102,7 @@ cd underwater-autonomous-drone
 5. Calibrate sensors (IMU, compass, GPS if applicable)
 
 
-
-![Image](Code%20File/p7.png)
+![System](code_files/p7.jpg)
 
 
 
